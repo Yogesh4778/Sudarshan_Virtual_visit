@@ -1,0 +1,20 @@
+.field{
+    position: relative;
+    align-items: center;
+    width: 70%;
+    height: 600px;
+    flex-direction: column;
+    background-color:rgba(255, 255, 255, 0.872);
+    margin: 10px 0 50px 200px;
+    padding: 40px;
+    transition: 1s;
+    border-radius: 20px;
+    transition: transform .2s; 
+    z-index: 2;
+    box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.658);
+
+}
+.header{
+    margin-bottom: 40px;
+    
+}
